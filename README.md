@@ -1,8 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ OpenAI API to create ChatGPT clone.
 
-Currently, two official plugins are available:
+ # SnapShot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ 
+![chatgpt_colne](https://github.com/HafizMuneeb/chatgpt_clone/assets/124581370/3584864b-4602-427c-aa19-bcae40a4fc6f)
